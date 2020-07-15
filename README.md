@@ -5,4 +5,4 @@
 - 👯 I’m looking to collaborate on DevOps.
 - 🤔 I’m looking for help with SRE.
 - 💬 Ask me about Python/Nginx/MySQL/Linux.
-- 📫 How to reach me: [dylanninin@gmail.com](dylanninin@gmail.com).
+- 📫 How to reach me: `dylanninin (at) gmail.com`
