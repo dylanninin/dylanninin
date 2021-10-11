@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on a startup.
 - 💬 Ask me about Python/Nginx/MySQL/Linux.
-- 🤔 Selected Presentations
+- 🤔 Selected Presentations: on [SlideShare](https://www.slideshare.net/DylannininGogh), on [Github](https://github.com/dylanninin/presentation)
   - [How to Code Review](http://www.slideshare.net/DylannininGogh/how-to-code-review)
   - [Git Real](http://www.slideshare.net/DylannininGogh/git-real), [Ansible Introduction](https://www.slideshare.net/DylannininGogh/ansible-introduction-238633094)
   - [Database Fundamental](http://www.slideshare.net/DylannininGogh/database-fundamental), [Linux Fundamental](http://www.slideshare.net/DylannininGogh/linux-fundamental)
@@ -13,5 +13,5 @@
   - 🦉 First iOS App(Swift): https://github.com/dylanninin/Landmark.
   - 🦢 First Android App(Kotlin): https://github.com/dylanninin/first-android-app.
   - ✨ HackerNews clone(Vue): https://hn.dylanninin.com.
-  - 😂 Blog(Chinese): https://dylanninin.com.
+- 😂 Blog(Chinese): https://dylanninin.com.
 - 📫 How to reach me: `dylanninin (at) gmail.com`
