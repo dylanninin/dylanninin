@@ -1,3 +1,5 @@
+![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dylanninin)
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on a startup.
@@ -15,3 +17,4 @@
   - ✨ HackerNews clone(Vue): https://hn.dylanninin.com.
 - 😂 Blog(Chinese): https://dylanninin.com.
 - 📫 How to reach me: `dylanninin (at) gmail.com`
+
