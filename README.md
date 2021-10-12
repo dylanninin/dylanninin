@@ -1,4 +1,4 @@
-![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dylanninin)
+![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dylanninin&count_private=true)
 
 ### Hi there 👋
 
